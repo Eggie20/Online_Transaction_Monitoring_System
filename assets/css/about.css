@@ -1,0 +1,57 @@
+.about-system {
+    padding: 2rem;
+    background: linear-gradient(145deg, #ffffff, #f5f7ff);
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.about-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about-system h2 {
+    color: #4B88E5;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 2.2rem;
+}
+
+.about-system h3 {
+    color: #2c3e50;
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+}
+
+.about-system ul, .about-system ol {
+    padding-left: 1.5rem;
+    margin: 1rem 0;
+}
+
+.about-system li {
+    margin: 0.5rem 0;
+    line-height: 1.6;
+}
+
+.fun-facts {
+    background: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 10px;
+    margin: 2rem 0;
+    border-left: 5px solid #4B88E5;
+}
+
+.system-quote {
+    text-align: center;
+    font-style: italic;
+    margin: 2rem 0;
+    color: #666;
+}
+
+.system-quote blockquote {
+    font-size: 1.2rem;
+    border-left: none;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 10px;
+} 
