@@ -1,4 +1,4 @@
-# gcash_monitoring
+# Gcash_Maya_Monitoring_Transaction_System
 Welcome sa GCash & Maya Transaction Monitoring System! 🌟
 📱 Unsa ni nga sistema?
 Hunahunaa nga kini imong super organized nga digital notebook para sa tanan nimong GCash ug Maya transactions! Sama ni sa magic diary nga automatic mag-organize sa tanan nimong transactions. Dili na kinahanglan maghunahuna asa paingon imong kwarta - naa na tanan sa system! 💸
